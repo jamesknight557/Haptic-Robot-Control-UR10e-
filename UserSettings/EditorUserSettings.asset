@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    RecentlyUsedSceneGuid-0:
+      value: 02520104500d0f03540c0d2341720e444016487c7e707f602c2a1b60bbb8653d
+      flags: 0
+    RecentlyUsedSceneGuid-1:
+      value: 5050060001010a0f5b5c0a7148270b44134f4b7e7e7e256374704966e6e1636b
+      flags: 0
+    RecentlyUsedSceneGuid-2:
+      value: 5b0602535000580e0e5e097a49220a44464e412b287e736828784830b1b16768
+      flags: 0
+    RecentlyUsedSceneGuid-3:
+      value: 5108560506545c595c58087443265944474e4e7a2f7a71317d7c1c37e7b1676c
+      flags: 0
+    RecentlyUsedSceneGuid-4:
+      value: 5304000006020d0c5f5a5c77477408444e4f1a792a7b7268747b4537e1b53668
+      flags: 0
+    RecentlyUsedSceneGuid-5:
+      value: 55500c54510551035408592146250f44464e4b7f797873332c7e1e65bae4353e
+      flags: 0
+    RecentlyUsedSceneGuid-6:
+      value: 51535253540451080b0c5a7740250844464e197b2f29256575714862b3b8676a
+      flags: 0
+    RecentlyUsedSceneGuid-7:
+      value: 06010157060650035f0f5b7013770a44424f4172297b7f657e791e35e0e6636a
+      flags: 0
+    RecentlyUsedSceneGuid-8:
+      value: 57045203010c5c0a550f0d7b15765b444f4e192c2e2d74682f701e67b7b66d60
+      flags: 0
+    RecentlyUsedSceneGuid-9:
+      value: 050202505606580f5c0d0a7a11715d44424e1d7c7929746728281b61e3e1306e
+      flags: 0
+    UIBuilder.DisableMouseWheelZooming:
+      value: 2550581500
+      flags: 0
+    UIBuilder.EditorExtensionModeKey:
+      value: 37434103
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_DesiredImportWorkerCount: 5
+  m_StandbyImportWorkerCount: 2
+  m_IdleImportWorkerShutdownDelay: 60000
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 1
+  m_VCScanLocalPackagesOnConnect: 1
+  m_ArtifactGarbageCollection: 1
+  m_CompressAssetsOnImport: 1
